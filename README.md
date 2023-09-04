@@ -3,7 +3,7 @@ Contact me with jxiong20@outlook.com.
 
 ## Introduction
 The official code for paper
-[[MATNilm: Multi-appliance-task Non-intrusive Load Monitoring with Limited Labeled Data]()]
+[[MATNilm: Multi-appliance-task Non-intrusive Load Monitoring with Limited Labeled Data](https://ieeexplore.ieee.org/document/10224774)]
 
 <p align="center">
   <img src="MATstructure.jpg" width="48%">
@@ -23,4 +23,4 @@ python main.py --dataAug
 **The project is only free for academic research purposes, but needs authorization for commerce. For commerce permission, please contact jxiong20@outlook.com.**
 
 ## Citation
-If you use our code/model, please cite our [[paper]()].
+If you use our code/model, please cite our [[paper](https://ieeexplore.ieee.org/document/10224774)].
